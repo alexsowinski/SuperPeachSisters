@@ -47,4 +47,8 @@ is desired, the source files are located in the "SuperPeachSisters" directory.
 This is my final project 3 submission for UCLA Professor Smallberg's CS 32 
 Introduction to Computer Science II course taught in Winter 2022, of which I received
 a perfect score for. The following files are purely my work and I do not condone
-any future use of my work in future CS 32 courses.
+any future use of my work in future CS 32 courses:
+Actor.h
+Actor.cpp
+StudentWorld.h
+StudentWorld.cpp
